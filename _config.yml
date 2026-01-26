@@ -1,46 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
 # Main Page Setup
-
 title: Reilly Poulsen's Portfolio  
-
 
 # Hero Section
 name: Reilly Poulsen
-headline: Engineering Portfolio 
-description: >- # dont remove this line. this will ignore all new lines until the next section
+headline: This is my Portfolio 
+description: >- 
   A collection of engineering projects demonstrating problem-solving, technical skills, 
   and application of concepts through coursework and independent work. 
 
-# Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/IMG_1724.png
+# Profile image
+profile_image: /assets/images/profile-image/IMG_1724.png
 
-# Set up external links - this will show up as small icons next to your name.
-
-external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: reilly-poulsen-20b0572b1   # https://www.linkedin.com/in/{your url slug} 
+# External links 
+external-links:  
+  linkedin: reilly-poulsen-20b0572b1   # https://www.linkedin.com/in/{url slug} 
   
-
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
+# Skills Section
 skills:
   - category: 3D Modeling
     tools:
     - Solidworks
     - bambu lab 
     
+# Contact Form
+formspree-key:   https://formspree.io/f/mkorzear
 
-# Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
-
-
-
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
+# Active Theme. 
+colors: 
   text: "#1a1c20"
   border: "#ddd"
   link: "#4a76ee"
@@ -48,15 +34,6 @@ colors: # this is the basic theme
   background: "#ffffff"
   light_background: "#f3f5fb"
 
-# A few examples. 
-basic theme:
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
-  
 #########################################################################################################
 # Build settings for the site. Editing the below may cause the site to malfunction.
 
@@ -85,23 +62,4 @@ plugins:
 include:
   - _projects
 
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
 #   - vendor/ruby/

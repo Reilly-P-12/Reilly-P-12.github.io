@@ -11,6 +11,9 @@ description: >-
 # Profile image
 profile_image: /assets/images/profile-image/IMG_1724.png
 
+# Resume
+resume-url: /assets/resume/Reilly Poulsen - Engineering Resume (2).png
+
 # External links 
 external-links:  
   linkedin: reilly-poulsen-20b0572b1   # https://www.linkedin.com/in/{url slug} 

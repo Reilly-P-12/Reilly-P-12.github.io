@@ -15,22 +15,20 @@ resume-url: /assets/resume/Reilly Poulsen - Engineering Resume (2).png
 
 # External links 
 external-links:  
-  linkedin: reilly-poulsen-20b0572b1   # https://www.linkedin.com/in/{url slug} 
+  linkedin: reilly-poulsen-20b0572b1  
   
 # Skills Section
 skills:
   - category: 3D Modeling
     tools:
     - Solidworks
-    - bambu lab 
     - AutoCAD 
+    - bambu lab 
 
   - category: Data analysis
     tools:
     - Microsoft Excel
     - Google Sheets
-
-  -
     
 
 # Contact Form

@@ -3,10 +3,12 @@ title: Reilly Poulsen's Portfolio
 
 # Hero Section
 name: Reilly Poulsen
-headline: and this is my Portfolio 
+headline: Mechanical Engineering Student | CSUF 
 description: >- 
-  A collection of my engineering projects demonstrating problem-solving, technical skills, and applications of concepts from coursework and independent projects.
-
+      I am a hard-working third-year college student eager to gain experience in the industry. 
+      Seeking a challenging role within a team, bringing dedication and passion, with a proven
+      track record of efficiency, successful outcomes, and effective collaboration.
+      
 # Profile image
 profile_image: /assets/images/profile-image/head_shot.png
 
@@ -19,19 +21,22 @@ external-links:
   
 # Skills Section
 skills:
-  - category: 3D Modeling
+  - category: Engineering Design & Analysis
     tools:
-    - Solidworks
+    - SolidWorks (CAD & Assemblies)
     - AutoCAD 
-    - bambu lab 
+    - MATLAB
 
-  - category: Data analysis
+  - category: Prototyping & Manufacturing
     tools:
-    - Microsoft Excel
-    - Google Sheets
-    
+    - FDM / 3D printing
+    - Fabrication & Welding 
+    - Woodworking
 
-# Contact Form
+ - category: Electronics & Instrumentation
+   tools: 
+    - Circuit Analysis & Breadboarding 
+    - Intermediate Wiring Harness Design 
 
 
 # Active Theme. 

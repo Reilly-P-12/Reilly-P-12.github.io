@@ -4,11 +4,11 @@ title: FSAE Project - Electric Throttle Body
 description:  I was assigned to a team of four members to take the old mechanical Throttle body  
               and turn it Electric for smoother, more efficient engine management. I was tasked 
               with creating the housing for all of the necessary components and mounting it to the 
-              engine. Using SolidWorks, I created a custom housing for the motor and electronics. I then  
-              same mounting points of the old throttle body placement. That file was then transferred to 
+              engine. Using SolidWorks, I created a custom housing for the motor and electronics. I then used the  
+              same mounting points as the old throttle body placement. That file was transferred to 
               Bambu lab to splice and add custom supports to ensure a clean print with ABS plastic. 
 skills: 
 - Tolerance analysis and Fitment verification
 - Mounting features, fasteners, and enclosure design
-main-image: /IMG_1437.jpeg
+main-image: /IMG_1555.jpeg
 ---

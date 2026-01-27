@@ -3,13 +3,13 @@ title: Reilly Poulsen's Portfolio
 
 # Hero Section
 name: Reilly Poulsen
-headline: And this is my Portfolio 
+headline: This is my Portfolio 
 description: >- 
-  A collection of engineering projects demonstrating problem-solving, technical skills, 
+  A collection of my engineering projects demonstrating problem-solving, technical skills, 
   and applications of concepts from coursework and independent work. 
 
 # Profile image
-profile_image: /assets/images/profile-image/IMG_1724.png
+profile_image: /assets/images/profile-image/head_shot.png
 
 # Resume
 resume-url: /assets/resume/Reilly Poulsen - Engineering Resume (2).png
@@ -25,27 +25,8 @@ skills:
     - Solidworks
     - bambu lab 
 
-# Contact Form ------------------------------------------------------------------------------------------
-formspree-key:   https://formspree.io/f/mkorzear
-
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/mkorzear"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
-
-#-----------------------------------------------------------------------------------------------
+# Contact Form
+formspree-key: https://formspree.io/f/mkorzear
 
 # Active Theme. 
 colors: 

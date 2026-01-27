@@ -26,7 +26,20 @@ skills:
     - bambu lab 
 
 # Contact Form
-<form action="https://formspree.io/f/xbdozqkw" method="POST">
+<form action="https://formspree.io/f/xbdozqkw method="POST">
+  <label>
+    Email:
+    <input type="email" name="email" required>
+  </label>
+
+  <label>
+    Message:
+    <textarea name="message" required></textarea>
+  </label>
+
+  <button type="submit">Send</button>
+</form>
+
 
 # Active Theme. 
 colors: 

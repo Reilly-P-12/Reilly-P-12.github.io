@@ -26,7 +26,7 @@ skills:
     - bambu lab 
 
 # Contact Form
-formspree-key:    https://formspree.io/f/xbdozqkw
+<form action="https://formspree.io/f/xbdozqkw" method="POST">
 
 # Active Theme. 
 colors: 

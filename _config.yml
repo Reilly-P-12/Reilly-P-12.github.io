@@ -39,9 +39,10 @@ skills:
       - Intermediate Wiring Harness Design
 
   - category: Data Analysis & Visualization
-      tools: 
-        - Microsoft Excel
-        - Google Sheets
+    tools:
+      - Microsoft Excel
+      - Google Sheets
+
 
 # Active Theme. 
 colors: 

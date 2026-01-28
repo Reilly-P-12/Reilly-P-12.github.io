@@ -5,7 +5,7 @@ title: Reilly Poulsen's Portfolio
 name: Reilly Poulsen
 headline: Mechanical Engineering Student | CSUF 
 description: >- 
-      I am a hardworking third-year college student devoted to gain industry experience. 
+      I am a hardworking third-year college student devoted to gaining industry experience. 
       Seeking a challenging role within a team, bringing dedication and passion, with a proven
       track record of efficiency, successful outcomes, and effective collaboration.
       
@@ -35,8 +35,8 @@ skills:
 
  - category: Electronics & Instrumentation
    tools: 
-    - Circuit Analysis & Breadboarding 
-    - Intermediate Wiring Harness Design 
+   - Circuit Analysis & Breadboarding 
+   - Intermediate Wiring Harness Design 
 
 
 # Active Theme. 

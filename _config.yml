@@ -37,14 +37,11 @@ skills:
     tools:
       - Circuit Analysis & Breadboarding 
       - Intermediate Wiring Harness Design
-  
- - category: Data Analysis & Visualization
-   tools:
-    - Microsoft Excel 
-    - Google Sheets 
 
-
-
+  - category: Data Analysis & Visualization
+      tools: 
+        - Microsoft Excel
+        - Google Sheets
 
 # Active Theme. 
 colors: 

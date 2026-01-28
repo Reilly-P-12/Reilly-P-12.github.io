@@ -23,20 +23,21 @@ external-links:
 skills:
   - category: Engineering Design & Analysis
     tools:
-    - SolidWorks (CAD & Assemblies)
-    - AutoCAD 
-    - MATLAB
+      - SolidWorks (CAD & Assemblies)
+      - AutoCAD 
+      - MATLAB
 
   - category: Prototyping & Manufacturing
     tools:
-    - FDM / 3D printing
-    - Fabrication & Welding 
-    - Woodworking
+      - FDM / 3D printing
+      - Fabrication & Welding 
+      - Woodworking
 
- - category: Electronics & Instrumentation
-   tools: 
-   - Circuit Analysis & Breadboarding 
-   - Intermediate Wiring Harness Design 
+  - category: Electronics & Instrumentation
+    tools:
+      - Circuit Analysis & Breadboarding 
+      - Intermediate Wiring Harness Design
+
 
 
 # Active Theme. 

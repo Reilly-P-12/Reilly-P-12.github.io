@@ -4,7 +4,9 @@ title: "Reilly Poulsen's Portfolio"
 # Hero Section
 name: Reilly Poulsen
 headline: Mechanical Engineering Student | Formula SAE Powertrain Lead
+          <br><br>
           Mechanical Design • Manufacturing • Testing
+          
 description: >- 
         Mechanical Engineering student at California State University, Fullerton and
         Formula SAE Powertrain Lead with hands-on experience designing, manufacturing,
@@ -16,7 +18,7 @@ description: >-
 
         <br><br>
         
-        <strong>Currently Seeking:</strong> - Mechanical Engineering internships in mechanical design, manufacturing,
+        <strong>Currently Seeking:</strong> Mechanical Engineering internships in mechanical design, manufacturing,
         testing, motorsports, aerospace, and vehicle development.
       
 # Profile image

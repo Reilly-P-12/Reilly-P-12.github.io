@@ -1,14 +1,50 @@
 ---
 layout: post
 title: Personal Project - 2008 Ninja 650r Rebuild
-description:  I purchased this bike as a non-operating vehicle to give myself a fun, challenging project for  
-              the summer. I put in a new battery, along with replacing the entire exhaust manifold and muffler.
-              The bike was now running, but neither the front nor the rear brakes was working at all. A deep clean 
-              and re-bleeding was necessary for both of the brake systems. The fuel pump then began to have a significant leak, and 
-              replacing it showed a required restoration of the gas tank. Finally, new plastics were added to the bike to 
-              complete the project. 
+description:  Purchased a non-operational 2008 Kawasaki Ninja 650R and restored it to a
+              fully functional motorcycle through systematic mechanical diagnosis,
+              repair, and refurbishment. The project involved troubleshooting multiple
+              independent mechanical failures, repairing critical systems, and returning
+              the motorcycle to reliable operating condition while improving its overall
+              appearance.
+
+              <br><br>
+              <strong>Mechanical Challenges:</strong>
+              <ul>
+              <li>Diagnose multiple independent faults on a non-running motorcycle.</li>
+              <li>Restore braking, fuel, and exhaust systems to safe operating condition.</li>
+              <li>Identify root causes rather than replacing components unnecessarily.</li>
+              <li>Complete repairs using standard shop tools and service documentation.</li>
+              </ul>
+
+              <br><br>
+              <strong>Repair Process:</strong>
+              Initial repairs focused on restoring basic engine operation by replacing the
+              battery and installing a new exhaust manifold and muffler. Once running,
+              additional inspection revealed complete loss of braking performance, requiring
+              disassembly, cleaning, and bleeding of both hydraulic brake systems.
+              Subsequent troubleshooting identified a leaking fuel pump, which led to
+              restoration of the fuel tank before reassembly. The project concluded with the
+              installation of replacement body panels to restore the motorcycle's exterior.
+
+              <br><br>
+              <strong>Results:</strong>
+              <ul>
+              <li>Successfully restored the motorcycle from a non-running condition to reliable operation.</li>
+              <li>Repaired braking, exhaust, and fuel systems.</li>
+              <li>Resolved multiple independent mechanical failures through systematic troubleshooting.</li>
+              <li>Completed a full cosmetic refresh following mechanical restoration.</li>
+              </ul>
+
 skills: 
-- Proficient with hand tools and shop equipment
-- Mechanical fault diagnosis and root-cause analysis
+- Mechanical Troubleshooting
+- Root Cause Analysis
+- Hydraulic Brake Service
+- Mechanical Assembly
+- Automotive Repair
+- Shop Equipment & Hand Tools
+
+
+
 main-image: /bike.png
 ---

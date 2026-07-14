@@ -1,16 +1,66 @@
 ---
 layout: post
-title: FSAE Project - PVC Head loop
+title: FSAE Project - Modular Engine Stand Head Loop
 description: Designed and manufactured a modular PVC head loop fixture for the Formula SAE
               engine stand to support rapid fitment validation of powertrain and aerodynamic
               components. The assembly used custom 3D-printed joints to interface with the
               existing steel engine stand, creating a lightweight, reusable structure that
               could be quickly modified as vehicle packaging evolved.
 
-            
+             <br><br>
+              <strong>Engineering Constraints:</strong>
+              <ul>
+              <li>Attach securely to the existing steel engine stand without permanent modifications.</li>
+              <li>Accommodate frequent design changes during vehicle development.</li>
+              <li>Maintain sufficient stiffness while minimizing weight and material cost.</li>
+              <li>Allow rapid assembly, disassembly, and adjustment.</li>
+              <li>Use commercially available PVC tubing with custom 3D-printed connectors.</li>
+              </ul>
+
+             <br><br>
+              <strong>Key Design Desicions:</strong>
+              <ul>
+              <li>Designed custom printed joints to interface PVC tubing with the existing engine stand.</li>
+              <li>Used standardized PVC tubing to simplify replacement and future modifications.</li>
+              <li>Created modular joint geometry that allowed sections of the fixture to be reconfigured as packaging requirements changed.</li>
+              <li>Integrated printed clamping features to improve repeatability during assembly.</li>
+              </ul>
+
+             <br><br>
+              <strong>Design Tradeoffs:</strong>
+              PVC provided a lightweight, inexpensive, and easily modified structure, but
+              offered lower stiffness than a welded steel fixture. To balance these
+              tradeoffs, the design used custom printed joints and triangulated members to
+              improve rigidity while maintaining the flexibility required for rapid design
+              iterations throughout vehicle development.
+
+             <br><br>
+              <strong>Manufacturing:</strong>
+              Custom joints were designed in SolidWorks and manufactured using FDM 3D
+              printing, allowing rapid iteration as the fixture evolved. Components were
+              designed to minimize support material while maintaining sufficient strength at
+              load-bearing interfaces. Standard PVC tubing was then cut to length and
+              assembled using the printed connectors, enabling inexpensive replacement of
+              individual members when geometry changed.
+
+             <br><br>
+              <strong>Validation:</strong>
+              <ul>
+              <li>Verified secure attachment to the existing engine stand.</li>
+              <li>Confirmed repeatable assembly using interchangeable printed joints.</li>
+              <li>Validated fitment of powertrain and aerodynamic components throughout development.</li>
+              <li>Demonstrated rapid modification of fixture geometry without manufacturing new structural components.</li>
+              </ul>
+
 
 skills: 
-- Rapid redesign to accommodate varying component geometries
-- Requirement-driven design (adjustability, repeatability, reusability)
+- Fixture Design
+- Rapid Prototyping
+- Modulat Assembly Design
+- CAD Modeling ( SolidWorks )
+- 3D Printing (FDM)
+- Fitment Verification 
+
+
 main-image: /Screenshot 2026-01-27 220934.png
 ---

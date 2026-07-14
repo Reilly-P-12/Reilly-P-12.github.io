@@ -1,11 +1,14 @@
 ---
 layout: post
 title: FSAE Project - PVC Head loop
-description:  In this project, I was tasked to create a custom head loop out of PVC and attach it to the Engine stand. 
-              Using SolidWorks and 3D printing, I created various elbow joints to slide over the PVC and create the new head loop. 
-              I also create custom joints to attach the PVC head loop to the existing engine stand made of metal tubing. This head loop 
-              was then used by the team to test the fitments of various powertrain and aerodynamic components for the car. 
-              
+description: Designed and manufactured a modular PVC head loop fixture for the Formula SAE
+              engine stand to support rapid fitment validation of powertrain and aerodynamic
+              components. The assembly used custom 3D-printed joints to interface with the
+              existing steel engine stand, creating a lightweight, reusable structure that
+              could be quickly modified as vehicle packaging evolved.
+
+            
+
 skills: 
 - Rapid redesign to accommodate varying component geometries
 - Requirement-driven design (adjustability, repeatability, reusability)

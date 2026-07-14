@@ -17,12 +17,13 @@ description:  The objective of this project was to convert the Formula SAE motor
               <li>Design for easy installation and serviceability.</li>
               </ul>
 
-              <br><br>
-              <strong>Design Process</strong>
-              I began by measuring the stock throttle body mounting interface and defining the available packaging volume. 
-              Several CAD iterations were developed to balance motor placement, enclosure geometry, mounting stiffness,
-              and printability. The final design reused the factory mounting pattern, reducing installation complexity while 
-              improving overall packaging.
+              <strong>Validation</strong>
+              <ul>
+              <li>Test fit on throttle body</li>
+              <li>Fastener alignment verification</li>
+              <li>Motor clearance verification</li>
+              <li>Electronics packaging verification</li>
+              </ul>
 
               <br><br>
               <strong>Manufacturing</strong>

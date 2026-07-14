@@ -9,11 +9,13 @@ description:  The objective of this project was to convert the Formula SAE motor
 
               <br><br>
               <strong>Engineering Challenges</strong>
-              - Package the motor and electronics within limited engine bay space.
-              - Reuse existing engine mounting points.
-              - Maintain manufacturability using FDM printing.
-              - Ensure sufficient stiffness while minimizing material.
-              - Design for easy installation and serviceability.
+              <ul>
+              <li>Package the motor and electronics within limited engine bay space.</li>
+              <li>Reuse existing engine mounting points.</li>
+              <li>Maintain manufacturability using FDM printing.</li>
+              <li>Ensure sufficient stiffness while minimizing material.</li>
+              <li>Design for easy installation and serviceability.</li>
+              </ul>
 
               <br><br>
               <strong>Design Process</strong>

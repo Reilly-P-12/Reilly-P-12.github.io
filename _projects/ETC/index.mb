@@ -8,7 +8,7 @@ description:  The objective of this project was to convert the Formula SAE motor
               with the existing engine mounting interface.
 
               <br><br>
-              <strong>Engineering Challenges</strong>
+              <strong>Engineering Challenges:</strong>
               <ul>
               <li>Package the motor and electronics within limited engine bay space.</li>
               <li>Reuse existing engine mounting points.</li>
@@ -17,20 +17,22 @@ description:  The objective of this project was to convert the Formula SAE motor
               <li>Design for easy installation and serviceability.</li>
               </ul>
 
-              <strong>Design Process</strong>
+              <strong>Design Process:</strong>
+              <br><br>
               I began by measuring the stock throttle body mounting interface and defining the available 
               packaging volume. Several CAD iterations were developed to balance motor placement, enclosure 
               geometry, mounting stiffness, and printability. The final design reused the factory mounting pattern, 
               reducing installation complexity while improving overall packaging.
 
               <br><br>
-              <strong>Manufacturing</strong>
+              <strong>Manufacturing:</strong>
+              <br><br>
               The housing was manufactured using ABS through FDM printing. Support structures were optimized within 
               Bambu Studio to improve surface finish and reduce post-processing while maintaining dimensional accuracy
               around mounting features.
 
               <br><br>
-              <strong>Validation</strong>
+              <strong>Validation:</strong>
               <ul>
               <li>Test fit on throttle body</li>
               <li>Fastener alignment verification</li>
@@ -39,7 +41,8 @@ description:  The objective of this project was to convert the Formula SAE motor
               </ul>
 
               <br><br>
-              <strong>Lessons Learned</strong>
+              <strong>Lessons Learned:</strong>
+              <br><br>
               This project taught me that the best engineering solutions are rarely the most complex. Rather, they are the 
               ones that balance packaging, manufacturability, reliability, and ease of integration. 
               Iterative prototyping and physical validation proved just as important as CAD design,

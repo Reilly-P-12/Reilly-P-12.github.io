@@ -33,26 +33,32 @@ external-links:
   
 # Skills Section
 skills:
-  - category: Engineering Design & Analysis
+  - category: Mechanical Design
     tools:
-      - SolidWorks (CAD & Assemblies)
-      - AutoCAD 
-      - MATLAB
+      - SolidWorks (Parts, Assemblies & Drawings)
+      - Design for Manufacturing (DFM)
+      - Mechanical Packaging
+      - Tolerance & Fitment Verification
 
   - category: Prototyping & Manufacturing
     tools:
-      - FDM / 3D printing
-      - Fabrication & Welding 
-      - Woodworking
+      - FDM 3D Printing
+      - Prototype Validation
+      - Fabrication & Welding
+      - Fixture Design
 
-  - category: Electronics & Instrumentation
+  - category: Mechanical Systems
     tools:
-      - Circuit Analysis & Breadboarding 
-      - Intermediate Wiring Harness Design
+      - Mechanical Troubleshooting
+      - Root Cause Analysis
+      - Hydraulic & Mechanical Assembly
+      - Wiring Harness Integration
 
-  - category: Data Analysis & Visualization
+  - category: Engineering Tools
     tools:
+      - MATLAB
       - Microsoft Excel
+      - AutoCAD
       - Google Sheets
 
 

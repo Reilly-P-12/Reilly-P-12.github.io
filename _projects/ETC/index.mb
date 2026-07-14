@@ -17,6 +17,23 @@ description:  The objective of this project was to convert the Formula SAE motor
               <li>Design for easy installation and serviceability.</li>
               </ul>
 
+              <br><br>
+              <strong>Engineering Challenges</strong>
+
+              <ul>
+              <li>Package the motor and electronics within limited engine bay space.</li>
+              <li>Reuse existing engine mounting points.</li>
+              <li>Maintain manufacturability using FDM printing.</li>
+              <li>Ensure sufficient stiffness while minimizing material.</li>
+              <li>Design for easy installation and serviceability.</li>
+              </ul>
+
+              <br><br>
+              <strong>Manufacturing</strong>
+              The housing was manufactured using ABS through FDM printing. Support structures were optimized within 
+              Bambu Studio to improve surface finish and reduce post-processing while maintaining dimensional accuracy
+              around mounting features.
+
               <strong>Validation</strong>
               <ul>
               <li>Test fit on throttle body</li>
@@ -26,25 +43,14 @@ description:  The objective of this project was to convert the Formula SAE motor
               </ul>
 
               <br><br>
-              <strong>Manufacturing</strong>
-              The housing was manufactured using ABS through FDM printing. Support structures were optimized within 
-              Bambu Studio to improve surface finish and reduce post-processing while maintaining dimensional accuracy
-              around mounting features.
-
-              <br><br>
-              <strong>Validation</strong>
-              - Test fit on Throttle Body
-              - Fastener alignment verification
-              - Motor clearance verification
-              - Electronics packaging verification
-
-              
-              
+              <strong>Lessons Learned</strong>
+              This project taught me that the best engineering solutions are rarely the most complex. Rather, they are the 
+              ones that balance packaging, manufacturability, reliability, and ease of integration. 
+              Iterative prototyping and physical validation proved just as important as CAD design,
+              reinforcing the importance of testing hardware early and refining designs based on real-world feedback. 
+                
 
 
 
-skills: 
-- Tolerance analysis and Fitment verification
-- Mounting features, fasteners, and enclosure design
 main-image: /Screenshot 2026-01-27 221351.png
 ---

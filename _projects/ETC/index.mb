@@ -17,10 +17,10 @@ description:  Designed and manufactured a custom electronic throttle body housin
 
               <br><br>
               <strong>Key Design Decisions</strong>
-              1. Reused the OEM mounting Interface - Eliminated modifications to the intake system and simplified installation
-              2. Packaged the motor vertically - Maximized available volume while maintaining shaft alignment.
-              3. Integrated mounting and motor support into a single printed part - Reduced part count and complexity
-              4. Reinforced the motor connection - motor would shear the mount and required more thickness 
+              <li>Reused the OEM mounting Interface - Eliminated modifications to the intake system and simplified installation</li>
+              <li>Packaged the motor vertically - Maximized available volume while maintaining shaft alignment</li>
+              <li>Integrated mounting and motor support into a single printed part - Reduced part count and complexity</li>
+              <li>Reinforced the motor connection - motor would shear the mount and required more thickness </li>
 
               <br><br>
               <strong>Design Tradeoffs:</strong>
@@ -42,10 +42,10 @@ description:  Designed and manufactured a custom electronic throttle body housin
               <br><br>
               <strong>Validation:</strong>
               <ul>
-              <li>Test fit on throttle body</li>
-              <li>Fastener alignment verification</li>
-              <li>Motor clearance verification</li>
-              <li>Electronics packaging verification</li>
+              <li>Verified alignment with the OEM throttle body mounting interface</li>
+              <li>Confirmed motor and housing clearance throughout installation</li>
+              <li>Verified fastener access and assembly using factory hardware</li>
+              <li>Evaluated electronics packaging within the available engine bay volume</li>
               </ul>
 
               <br><br>

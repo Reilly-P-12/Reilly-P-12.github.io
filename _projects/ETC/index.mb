@@ -1,34 +1,43 @@
 ---
 layout: post
 title: FSAE Project - Electric Throttle Body 
-description:  The objective of this project was to convert the Formula SAE motorcycle 
-              engine from a mechanical throttle body to an electronic throttle body (ETB) to enable precise
-              engine control and future integration with advanced engine management strategies. I was responsible 
-              for designing the housing that packaged the electric motor and electronics while maintaining compatibility 
-              with the existing engine mounting interface.
+description:  Designed and manufactured a custom electronic throttle body housing that integrated a servo motor 
+              into the stock Formula SAE intake while preserving OEM mounting geometry, minimizing package volume,
+              and enabling electronic throttle control.
 
               <br><br>
-              <strong>Engineering Challenges:</strong>
+              <strong>Engineering Constraints:</strong>
               <ul>
-              <li>Package the motor and electronics within limited engine bay space.</li>
-              <li>Reuse existing engine mounting points.</li>
-              <li>Maintain manufacturability using FDM printing.</li>
-              <li>Ensure sufficient stiffness while minimizing material.</li>
-              <li>Design for easy installation and serviceability.</li>
+              <li>Maintain the existing throttle body bolt pattern and shaft location.</li>
+              <li>Fit the motor and electronics within a limited engine bay envelope.</li>
+              <li>Allow installation using existing hardware and mounting points.</li>
+              <li>Ensure the housing could be manufactured with FDM printing without excessive post-processing.</li>
+              <li>Provide sufficient stiffness around mounting features while minimizing material use.</li>
               </ul>
 
               <br><br>
-              <strong>Design Process:</strong>
-              I began by measuring the stock throttle body mounting interface and defining the available 
-              packaging volume. Several CAD iterations were developed to balance motor placement, enclosure 
-              geometry, mounting stiffness, and printability. The final design reused the factory mounting pattern, 
-              reducing installation complexity while improving overall packaging.
+              <strong>Key Design Decisions</strong>
+              1. Reused the OEM mounting Interface - Eliminated modifications to the intake system and simplified installation
+              2. Packaged the motor vertically - Maximized available volume while maintaining shaft alignment.
+              3. Integrated mounting and motor support into a single printed part - Reduced part count and complexity
+              4. Reinforced the motor connection - motor would shear the mount and required more thickness 
+
+              <br><br>
+              <strong>Design Tradeoffs:</strong>
+              Reusing the factory mounting interface minimized installation complexity but significantly constrained the 
+              available packaging space for the motor and electronics. The housing was designed to maximize stiffness while
+              remaining suitable for FDM manufacturing, requiring a balance between wall thickness, material usage, and overall 
+              package size.
+            
 
               <br><br>
               <strong>Manufacturing:</strong>
-              The housing was manufactured using ABS through FDM printing. Support structures were optimized within 
-              Bambu Studio to improve surface finish and reduce post-processing while maintaining dimensional accuracy
-              around mounting features.
+              The housing was manufactured using FDM 3D printing in ABS to rapidly validate
+              the design while minimizing cost and lead time. Features were designed for
+              printability by reducing unsupported overhangs and reinforcing high-load
+              mounting regions, resulting in a prototype that required minimal
+              post-processing while maintaining dimensional accuracy for assembly and fitment
+              verification.
 
               <br><br>
               <strong>Validation:</strong>
@@ -47,6 +56,7 @@ description:  The objective of this project was to convert the Formula SAE motor
               reinforcing the importance of testing hardware early and refining designs based on real-world feedback. 
 
               <br><br>
+
 
 skills: 
 - Mechanical Packaging

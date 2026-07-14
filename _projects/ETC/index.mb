@@ -1,12 +1,21 @@
 ---
 layout: post
 title: FSAE Project - Electric Throttle Body 
-description:  I was assigned to a team of four members to take the old mechanical Throttle body  
-              and turn it Electric for smoother, more efficient engine management. I was tasked 
-              with creating the housing for all of the necessary components and mounting it to the 
-              engine. Using SolidWorks, I created a custom housing for the motor and electronics. I then used the  
-              same mounting points as the old throttle body placement. That file was transferred to 
-              Bambu lab to splice and add custom supports to ensure a clean print with ABS plastic. 
+description:  The objective of this project was to convert the Formula SAE motorcycle 
+              engine from a mechanical throttle body to an electronic throttle body (ETB) to enable precise
+              engine control and future integration with advanced engine management strategies. I was responsible 
+              for designing the housing that packaged the electric motor and electronics while maintaining compatibility 
+              with the existing engine mounting interface.
+
+              <br><br>
+              <strong>Engineering Challenges</strong>
+              - Package the motor and electronics within limited engine bay space.
+              - Reuse existing engine mounting points.
+              - Maintain manufacturability using FDM printing.
+              - Ensure sufficient stiffness while minimizing material.
+              - Design for easy installation and serviceability.
+
+
 skills: 
 - Tolerance analysis and Fitment verification
 - Mounting features, fasteners, and enclosure design
